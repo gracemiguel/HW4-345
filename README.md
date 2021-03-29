@@ -10,5 +10,3 @@
 ### Server 
 
 Create a simple one timer serving service with curl commands.
-
-
