@@ -7,7 +7,7 @@
 * Write code for creating an issue (Links to an external site.) for an existing repo
 * Write code for editing a repo (Links to an external site.) to enable wiki support
 
-###Server 
+### Server 
 
 Create a simple one timer serving service with curl commands.
 
